@@ -1,4 +1,4 @@
-# Laravel CRUD API
+# Laravel CRUD APP
 
 This project is a simple API built with Laravel that demonstrates basic CRUD (Create, Read, Update, Delete) operations.
 
